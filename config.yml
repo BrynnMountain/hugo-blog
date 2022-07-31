@@ -1,7 +1,7 @@
 baseURL: "https://brynnmountain.com/"
 title: Brynn Mountain
 paginate: 5
-theme: PaperMod
+theme: papermod
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -130,4 +130,3 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
-```
