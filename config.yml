@@ -1,5 +1,5 @@
 baseURL: "https://brynnmountain.com/"
-title: Brynn Mountain | Full-time Nerd
+title: BrynnMountain.com
 paginate: 5
 theme: PaperMod
 
@@ -55,18 +55,20 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Brynn Mountain
-    subtitle: "Fill-time nerd."
+    subtitle: "Full-time nerd."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
+      - name: Words
         url: posts
-      - name: Tags
-        url: tags
+      - name: About
+        url: about
+      - name: Appendix N
+        url: appendix-n
 
   # home-info mode
   homeInfoParams:
@@ -109,14 +111,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: Words
+      url: /posts/
+      weight: 10
     - identifier: about
       name: About
       url: /about/
-      weight: 10
+      weight: 20
     - identifier: appendix-n
       name: Appendix N
       url: /appendix-n/
-      weight: 20
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
