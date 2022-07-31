@@ -1,7 +1,7 @@
 baseURL = "https://brynnmountain.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Brynn Mountain"
+title = "Hugo Hermit"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Brynn Mountain"
+  name = "John Doe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -30,7 +30,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  # description = "Words from a full-time nerd."
+  # description = ""
   # images = [""]
   themeColor = "#494f5c"
 
@@ -51,7 +51,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/brynnmountain"
+    url = "https://twitter.com/"
 
   [[params.social]]
     name = "instagram"
@@ -59,7 +59,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/brynnmountain"
+    url = "https://github.com/"
 
 [menu]
 
