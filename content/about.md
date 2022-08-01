@@ -1,8 +1,7 @@
 ---
 title: About
-hideMeta: false
-ShowToc: true
-TocOpen: true
+hideMeta: true
+ShowToc: false
 ---
 # Hello, I am Brynn Mountain.
 I am a full-time nerd.
