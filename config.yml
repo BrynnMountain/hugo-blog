@@ -58,7 +58,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Brynn Mountain
     subtitle: "Full-time nerd."
-    imageUrl: "/content/bmm2021.jpg"
+    imageUrl: "content/bmm2021.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: BMM Image
