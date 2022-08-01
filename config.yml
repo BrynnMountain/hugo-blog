@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Brynn Mountain"
-    icon: /apple-touch-icon.png
+    icon:
     iconHeight: 35
 
   # profile-mode
@@ -58,10 +58,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Brynn Mountain
     subtitle: "Full-time nerd."
-    imageUrl: "<img location>"
+    imageUrl: "/resources/_gen/images/bmm_2021.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Brynn Mountain Porfile Image
     buttons:
       - name: Words
         url: posts
