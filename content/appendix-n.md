@@ -1,17 +1,13 @@
 +++
 title = "Appendix N"
-date = "2014-04-09"
+date = "2022-08-01"
 +++
+> In 1979 [TSR](https://en.wikipedia.org/wiki/TSR,_Inc.) released the [1st Edition AD&D Dungeon Masters Guide](https://www.drivethrurpg.com/product/17004/Dungeon-Masters-Guide-1e?filters=44829_0_0_0_0). Inside were a number of appendices containing a myriad of information, including Appendix N; a collection of the books that inspired [Gary Gygax](https://en.wikipedia.org/wiki/Gary_Gygax) and his work on Dungeons & Dragons. This is my Appendix N.
+# Tabletop Games
+# Video Games
+# Novels
+# Audio
+# Television
+# Movies
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
