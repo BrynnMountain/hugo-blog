@@ -58,10 +58,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Brynn Mountain
     subtitle: "Full-time nerd."
-    imageUrl: "/themes/PaperMod/images/bmm2021.jpg"
+    imageUrl: "bmm2021.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Brynn Mountain Porfile Image
+    imageTitle: BMM Image
     buttons:
       - name: Words
         url: posts
