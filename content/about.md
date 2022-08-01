@@ -1,7 +1,7 @@
-+++
-title = "About"
-date = "2022-08-01"
-+++
+---
+ShowToc: true
+TocOpen: true
+---
 # Hello, I am Brynn Mountain.
 I am a full-time nerd.
 
