@@ -1,6 +1,6 @@
 ---
 author: "Brynn Mountain"
-title: "Hello World"
+title: "Programabiity and the Vortex Pok3r Mechanica Keyboard"
 date: "2018-02-02"
 description: "How I utilize the programability feature of my Vortex Pok3r keyboard."
 tags: []
@@ -10,6 +10,7 @@ aliases: []
 ShowToc: true
 TocOpen: true
 ---
+# Introduction
 For anyone who is unaware, [mechanical keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E) have taken the nerd world by storm over the last few years. I purchased my first mechanical keyboard, a [Das Model S Professional](http://www.daskeyboard.com/model-s-professional/), nearly six years ago now and I haven't looked back since. 
 
 Today however, I want to talk about the keyboard I have been using for the last year, the [Vortex Pok3r](http://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=220&kind3=&kind4=1010). With a small profile, sturdy design, and a few neat tricks up its sleeve, I think the Pok3r could become a favourite for anyone who spends a ton of time at the computer every day.
