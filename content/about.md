@@ -1,6 +1,6 @@
 ---
 title: About
-hidemeta: false
+hideMeta: false
 ShowToc: true
 TocOpen: true
 ---
