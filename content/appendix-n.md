@@ -1,4 +1,6 @@
 ---
+title: Appendix N
+hidemeta: false
 ShowToc: true
 TocOpen: true
 ---

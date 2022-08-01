@@ -1,4 +1,6 @@
 ---
+title: About
+hidemeta: false
 ShowToc: true
 TocOpen: true
 ---
