@@ -58,10 +58,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Brynn Mountain
     subtitle: "Full-time nerd."
-    imageUrl: "https://brynnmountain.com/img/bmm2021.jpg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: BMM Image
+    imageUrl: ""
+    imageWidth: 
+    imageHeight: 
+    imageTitle: 
     buttons:
       - name: Words
         url: posts
