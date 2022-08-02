@@ -7,20 +7,27 @@ TocOpen: true
 > In 1979 [TSR](https://en.wikipedia.org/wiki/TSR,_Inc.) released the [1st Edition AD&D Dungeon Masters Guide](https://www.drivethrurpg.com/product/17004/Dungeon-Masters-Guide-1e?filters=44829_0_0_0_0). Inside were a number of appendices containing a myriad of information, including Appendix N; a collection of the books that inspired [Gary Gygax](https://en.wikipedia.org/wiki/Gary_Gygax) and his work on Dungeons & Dragons. This is my Appendix N.
 ## Tabletop Games
 
+- The Black Wyrm of Brandonsford by Chance Duddinack
+- Blades in the Dark by John Harper
 - [Dungeons & Dragons](https://dnd.wizards.com/) by TSR / Wizards of the Coast
 - [Dungeon World](https://dungeon-world.com/) by Sage LaTorra & Adam Koebel
+- Hotsprings Island by Swordfish Islands
 - [Ironsworn](https://www.ironswornrpg.com/) by Shawn Tomkin
+- Knock! by The Merry Mushmen
 - [LANCER](https://massif-press.itch.io/) by Massif Press
 - [Mothership](https://www.mothershiprpg.com/) by Shawn McCool
+- Mouse Guard by Burning Wheel
 - [Old School Essentials](https://necroticgnome.com/) by Necrotic Gnome
 - [Perlious Wilds](https://www.drivethrurpg.com/browse/pub/7199/Lampblack--Brimstone) by Lampblack & Brimstone
 - [Rangers of Shadow Deep](https://www.drivethrurpg.com/product/257695/Rangers-of-Shadow-Deep-A-Tabletop-Adventure-Game) by Joseph A. McCullough
 - [Stars Without Number: Revised Edition](https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition) by Kevin Crawford
 - [Stonetop](https://www.kickstarter.com/projects/1735046512/stonetop) by Penny Lantern
-- [Tales from the Loop](https://en.wikipedia.org/wiki/Tales_from_the_Loop_(role-playing_game)) by Free League
-- A Thousand Thousand Islands by A Thousand Thousand Islands
+- [Tales from the Loop](https://en.wikipedia.org/wiki/Tales_from_the_Loop_(role-playing_game)) by Free League Publishing
+- [A Thousand Thousand Islands](https://athousandthousandislands.com/shop/) by A Thousand Thousand Islands
 - [Torchbearer](https://www.torchbearerrpg.com/) by Burning Wheel
+- The Waking of Willowby Hall by Ben Milton
 - [Worlds Without Number](https://www.drivethrurpg.com/product/348791/Worlds-Without-Number) by Kevin Crawford
+
 ### Creators
 
 * [Matt Colville](https://www.youtube.com/channel/UCkVdb9Yr8fc05_VbAVfskCA)
@@ -30,16 +37,26 @@ TocOpen: true
 ## Video Games
 
 - The Battlefield Series by Dice
+- The Call of Duty Series by Infinity Ward
 - The Destiny Series by Bungie
+- The Division Series by Ubisoft
 - [The Elder Scrolls Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls) by Bethesda
+- The Elder Scrolls Online by Zenimax Online Studios
 - [The Guild Wars Series](https://www.arena.net/en/games) by ArenaNet
 - The Halo Series by Bungie / 343
 - [Maplestory]([https://maplestory.nexon.net](https://maplestory.nexon.net/)) by Nexon
+- Melvor Idle by Brendan Malcolm
 - Minecraft by Mojang
-- StarCraft by Blizzard Entertainment
+- Necesse by Mads Skovgaard
+- The Pokemon Series by GameFreak
+- RuneScape by Jagex
+- Starbound by Chucklefish
+- The StarCraft Series by Blizzard Entertainment
 - Stardew Valley by Concerned Ape
 - Starwars the Old Republic by BioWare
+- Team Fortress 2 by Valve
 - Terraria by Re-Logic
+- Valheim by IronGate
 - World of Warcraft by Blizzard Entertainment
 ### Creators
 
@@ -50,5 +67,16 @@ TocOpen: true
 
 ## Novels
 
+- Dune by Frank Herbert
 - [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) by J.R.R. Tolkien
+
+## Comics
+
+* Mouse Guard by 
+
+## Television
+
+* Avatar the Last Airbender
+* Doctor Who
+* Futurama
 
